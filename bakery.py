@@ -6,5 +6,7 @@ elif cake == 'no':
     print('you dont want a cake')
 elif cake == 'i dont know':
     print('MAKE A DECISION')
+elif cake == 'maybe':
+    print('awk go on')
 else:
     print(' invalid answer')
